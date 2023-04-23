@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "eslint": "^7.24.0",
-    "nodemon": "^2.0.7"
+    "nodemon": "^2.0.22"
   },
   "name": "hackku-2021-bot",
   "version": "1.0.0",
